@@ -1,0 +1,11 @@
+button{
+    row-gap: 20px;
+    width:100px;
+    height:40px;
+    background-color: rgba(194, 195, 198, 0.637);
+    border:none;
+    border: 1px solid black;
+    margin-bottom: 2px;
+    color:white;
+    border-radius: 10px;
+}
